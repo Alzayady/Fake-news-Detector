@@ -11,6 +11,11 @@ https://drive.google.com/file/d/1uvgKRgZbp362464YkaubAwIu63zFRtni/view
 
 traing set  : 91%
 test set 88 %
+
+
+
+
+
 ![github-small](result.PNG)
 
 
