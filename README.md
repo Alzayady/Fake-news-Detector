@@ -6,6 +6,25 @@ classify news as fake or real using classification algorithms .
 
 https://drive.google.com/file/d/1uvgKRgZbp362464YkaubAwIu63zFRtni/view
 
+## examples 
+
+1- real words 
+
+
+
+![github-small](Real.PNG)
+
+
+
+
+2- fake words
+
+
+
+![github-small](Fake.PNG)
+
+
+
 
 ## Results 
 
